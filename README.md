@@ -13,7 +13,7 @@ Currently, I'm working on developing my skills in various programming languages 
 
 ## 📈 GitHub Stats
 
-![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=marwanmohamed&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 
